@@ -1,6 +1,6 @@
 # isc-dhcp-server
 
-Après avoir télécharger les paquets du serveur DHCP sur ma machine Ubuntu. Je suis passée sur le réseau interne itnet.
+Après avoir télécharger les paquets du serveur DHCP sur ma machine Ubuntu. Je suis passée sur le réseau interne intnet.
 
 ![image](https://github.com/JuJuIHM/isc-dhcp-server/assets/137881830/1a19dd15-7598-4b64-aa44-3e38b13ba38f)
 
